@@ -1,0 +1,2 @@
+# nikey
+tugas infor
